@@ -1,3 +1,4 @@
+package Week3;
 // This program checks if a number is positive, negative, or zero. 
 public class PositiveNegativeZero { 
  public static void main(String[] args) { 

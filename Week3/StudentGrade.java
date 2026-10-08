@@ -1,3 +1,4 @@
+package Week3;
 // This program determines a student's grade based on marks. // It uses nested if-else to first validate the marks, then assign a grade. 
 public class StudentGrade { 
  public static void main(String[] args) { 

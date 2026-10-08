@@ -1,3 +1,4 @@
+package Week3;
 // This program prints the day name using a switch statement. 
 public class DaySwitch { 
  public static void main(String[] args) { 

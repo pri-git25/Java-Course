@@ -1,3 +1,5 @@
+package Week3;
+
 // This program demonstrates the ternary operator as a shorthand for if-else. 
 public class TernaryDemo { 
  public static void main(String[] args) { 

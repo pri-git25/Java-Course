@@ -42,7 +42,7 @@ public static void main(String[] args) {
 
 // Create an object of RectangleOOP.
 // The constructor is called with arguments 5.0 and 3.0.
-StudentGrade rect = new StudentGrade(5.0, 3.0);
+RectangleOOP rect = new RectangleOOP(5.0, 3.0);
 
 // Call methods on the object.
 System.out.println("OOP Approach:");
