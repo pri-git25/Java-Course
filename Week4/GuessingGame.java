@@ -49,6 +49,7 @@ public class GuessingGame {
  } 
  // Close the scanner to free resources. 
  scanner.close();
+}
 
  } 
 
